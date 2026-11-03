@@ -1,0 +1,19 @@
+{
+  "name": "roteiro-estudos",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": ">=11.5.0",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.4.1",
+    "gsap": "^3.12.5",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "three": "^0.170.0",
+    "zod": "^3.23.8"
+  }
+}
