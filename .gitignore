@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+.secret
+data.db*
+public/vendor/
+node_modules/
+.vercel/
